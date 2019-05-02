@@ -172,24 +172,5 @@ percent.addEventListener('input', function() {
      };
   
      
-     
-
-// // ****************
-// // for (var i = 0; i < 2; i++) {
-// //     var q1 = prompt("Введите обьязательную статью расходов в этом месяце", "");
-// //     var q2 = prompt("Во сколько обойдется?", "");
-// // if ((typeof(q1)) === "string" && (typeof(q1)) != null && (typeof(q1)) != "" && (typeof(q2)) == "string" && (typeof(q2)) != null 
-// // && (typeof(q2)) != "" && q1.length < 50 && q2.length < 50) {    
-// //     console.log("done");
-// //     appData.expenses[q1] = q2;
-// // } else {
-// //    i= i-1;
-// // }
-// // }
-
-
-// //  var budgetPerDay = appData.budget / 30;
-
-// // alert(appData.budget / 30);
 
 
